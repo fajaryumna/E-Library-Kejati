@@ -93,6 +93,9 @@
                             <h3 class="footer-right-margin">No Telp: </h3>
                             <h3 class="footer-right-margin">Fax: </h3>
                         </div>
+                        <div class="footer-equalwidth footer-content-right">
+                            <h3 class="footer-right-margin">Our Socials</h3>
+                        </div>
                     </div>
                 </div>
             </footer>
